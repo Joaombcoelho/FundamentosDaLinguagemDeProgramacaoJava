@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Scanner;
 
-public class mjönir {
+public class mjnir {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         if (!leitor.hasNextInt()) {
